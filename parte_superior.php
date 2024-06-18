@@ -1,30 +1,22 @@
 <!DOCTYPE html>
 <html lang="English">
-
 <head>
     <meta charset="utf-8">
-    <meta name="Proyecto de tercera 1" content="Pagina de prueba">
-    <title>
-        Tercera 1
-    </title>
-
-    <link rel="stylesheet" href="./styles/main.css"
-
-
-
+    <title>Proyecto de Tercera 1</title>
+    <meta name="description" content="Página de prueba">
+    <link rel="stylesheet" href="./styles/main1.css">
 </head>
-
-<menu>
-
-
-    <div class="menu-izquierda">
-        
-
-
-
-    </div>
-
-
-
-
-</menu>
+<body>
+    <menu class="menu-izquierda">
+        <div class="logo">
+            <a href="#">
+                <img src="./imagen/logo-1.jpeg" alt="">
+            </a>
+        </div>
+        <div class="menu-derecha">
+            <a class="enlaces-menu-derecha" href="https://google.com">Primer Enlace</a>
+            <!-- Más enlaces aquí -->
+        </div> 
+    </menu>
+</body>
+</html>
